@@ -1,1 +1,2 @@
-EBOOK criado por Magno Cruz Santos elaborado com o tema sobre o Penhor da Caixa -Operação de Crédito que o cliente leva suas jóias deixa como garantia e recebe dinheiro na hora.
+Atividades e Projetos Desenvolvidos pelo Curso do Bootcamp Caixa da DIO 
+Aqui você encontra o Ebook criado por mim, o Pod CAst e a planilha Eletrônica proposta nas tarefas.
